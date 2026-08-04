@@ -1,11 +1,9 @@
-import Navbar from "../components/Navbar";
-
 export default function Home() {
   return (
     <main>
-      <Navbar />
-
-      <h1>XOAI DU Bistro and Cafe</h1>
+      <img src="/images/xd-logo.jpg" alt="Xoai Du Logo" />
+      
+      <h1>"Xoai Du Bistro and Cafe</h1>
 
       <p>Authentic Vietnamese Cuisine</p>
 
